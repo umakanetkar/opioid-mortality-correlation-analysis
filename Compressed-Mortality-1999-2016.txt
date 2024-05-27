@@ -1,0 +1,702 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Adams County, PA"	"42001"	"2006"	"2006"	877	99899	877.9
+	"Adams County, PA"	"42001"	"2007"	"2007"	921	100502	916.4
+	"Adams County, PA"	"42001"	"2008"	"2008"	890	101056	880.7
+	"Adams County, PA"	"42001"	"2009"	"2009"	863	101252	852.3
+	"Adams County, PA"	"42001"	"2010"	"2010"	917	101407	904.3
+	"Adams County, PA"	"42001"	"2011"	"2011"	941	101650	925.7
+	"Adams County, PA"	"42001"	"2012"	"2012"	985	101535	970.1
+	"Adams County, PA"	"42001"	"2013"	"2013"	980	101407	966.4
+	"Adams County, PA"	"42001"	"2014"	"2014"	996	101612	980.2
+"Total"	"Adams County, PA"	"42001"			8370	910320	919.5
+	"Allegheny County, PA"	"42003"	"2006"	"2006"	14116	1226025	1151.4
+	"Allegheny County, PA"	"42003"	"2007"	"2007"	13934	1222482	1139.8
+	"Allegheny County, PA"	"42003"	"2008"	"2008"	14169	1221071	1160.4
+	"Allegheny County, PA"	"42003"	"2009"	"2009"	13619	1222171	1114.3
+	"Allegheny County, PA"	"42003"	"2010"	"2010"	13479	1223348	1101.8
+	"Allegheny County, PA"	"42003"	"2011"	"2011"	13847	1227535	1128.0
+	"Allegheny County, PA"	"42003"	"2012"	"2012"	13408	1230842	1089.3
+	"Allegheny County, PA"	"42003"	"2013"	"2013"	13512	1233631	1095.3
+	"Allegheny County, PA"	"42003"	"2014"	"2014"	13520	1232666	1096.8
+"Total"	"Allegheny County, PA"	"42003"			123604	11039771	1119.6
+	"Armstrong County, PA"	"42005"	"2006"	"2006"	832	70030	1188.1
+	"Armstrong County, PA"	"42005"	"2007"	"2007"	838	69845	1199.8
+	"Armstrong County, PA"	"42005"	"2008"	"2008"	827	69611	1188.0
+	"Armstrong County, PA"	"42005"	"2009"	"2009"	866	69120	1252.9
+	"Armstrong County, PA"	"42005"	"2010"	"2010"	776	68941	1125.6
+	"Armstrong County, PA"	"42005"	"2011"	"2011"	827	68645	1204.7
+	"Armstrong County, PA"	"42005"	"2012"	"2012"	856	68367	1252.1
+	"Armstrong County, PA"	"42005"	"2013"	"2013"	817	68095	1199.8
+	"Armstrong County, PA"	"42005"	"2014"	"2014"	845	67660	1248.9
+"Total"	"Armstrong County, PA"	"42005"			7484	620314	1206.5
+	"Beaver County, PA"	"42007"	"2006"	"2006"	2114	173259	1220.1
+	"Beaver County, PA"	"42007"	"2007"	"2007"	2113	172161	1227.3
+	"Beaver County, PA"	"42007"	"2008"	"2008"	2174	171336	1268.9
+	"Beaver County, PA"	"42007"	"2009"	"2009"	2033	170524	1192.2
+	"Beaver County, PA"	"42007"	"2010"	"2010"	1926	170539	1129.4
+	"Beaver County, PA"	"42007"	"2011"	"2011"	2090	170354	1226.9
+	"Beaver County, PA"	"42007"	"2012"	"2012"	2119	170250	1244.6
+	"Beaver County, PA"	"42007"	"2013"	"2013"	2170	170045	1276.1
+	"Beaver County, PA"	"42007"	"2014"	"2014"	2107	169392	1243.9
+"Total"	"Beaver County, PA"	"42007"			18846	1537860	1225.5
+	"Bedford County, PA"	"42009"	"2006"	"2006"	489	49871	980.5
+	"Bedford County, PA"	"42009"	"2007"	"2007"	476	49889	954.1
+	"Bedford County, PA"	"42009"	"2008"	"2008"	521	50052	1040.9
+	"Bedford County, PA"	"42009"	"2009"	"2009"	487	49889	976.2
+	"Bedford County, PA"	"42009"	"2010"	"2010"	507	49762	1018.8
+	"Bedford County, PA"	"42009"	"2011"	"2011"	561	49414	1135.3
+	"Bedford County, PA"	"42009"	"2012"	"2012"	499	49375	1010.6
+	"Bedford County, PA"	"42009"	"2013"	"2013"	574	49111	1168.8
+	"Bedford County, PA"	"42009"	"2014"	"2014"	591	48925	1208.0
+"Total"	"Bedford County, PA"	"42009"			4705	446288	1054.3
+	"Berks County, PA"	"42011"	"2006"	"2006"	3492	401834	869.0
+	"Berks County, PA"	"42011"	"2007"	"2007"	3474	405223	857.3
+	"Berks County, PA"	"42011"	"2008"	"2008"	3558	407737	872.6
+	"Berks County, PA"	"42011"	"2009"	"2009"	3544	409904	864.6
+	"Berks County, PA"	"42011"	"2010"	"2010"	3630	411442	882.3
+	"Berks County, PA"	"42011"	"2011"	"2011"	3683	412676	892.5
+	"Berks County, PA"	"42011"	"2012"	"2012"	3679	413331	890.1
+	"Berks County, PA"	"42011"	"2013"	"2013"	3871	413687	935.7
+	"Berks County, PA"	"42011"	"2014"	"2014"	3728	414021	900.4
+"Total"	"Berks County, PA"	"42011"			32659	3689855	885.1
+	"Blair County, PA"	"42013"	"2006"	"2006"	1582	127002	1245.6
+	"Blair County, PA"	"42013"	"2007"	"2007"	1462	127048	1150.7
+	"Blair County, PA"	"42013"	"2008"	"2008"	1555	127112	1223.3
+	"Blair County, PA"	"42013"	"2009"	"2009"	1606	127161	1263.0
+	"Blair County, PA"	"42013"	"2010"	"2010"	1569	127089	1234.6
+	"Blair County, PA"	"42013"	"2011"	"2011"	1550	127178	1218.8
+	"Blair County, PA"	"42013"	"2012"	"2012"	1575	126991	1240.2
+	"Blair County, PA"	"42013"	"2013"	"2013"	1706	126419	1349.5
+	"Blair County, PA"	"42013"	"2014"	"2014"	1495	126019	1186.3
+"Total"	"Blair County, PA"	"42013"			14100	1142019	1234.7
+	"Bradford County, PA"	"42015"	"2006"	"2006"	654	62345	1049.0
+	"Bradford County, PA"	"42015"	"2007"	"2007"	619	62343	992.9
+	"Bradford County, PA"	"42015"	"2008"	"2008"	690	62318	1107.2
+	"Bradford County, PA"	"42015"	"2009"	"2009"	673	62418	1078.2
+	"Bradford County, PA"	"42015"	"2010"	"2010"	674	62622	1076.3
+	"Bradford County, PA"	"42015"	"2011"	"2011"	668	63044	1059.6
+	"Bradford County, PA"	"42015"	"2012"	"2012"	633	62847	1007.2
+	"Bradford County, PA"	"42015"	"2013"	"2013"	686	62350	1100.2
+	"Bradford County, PA"	"42015"	"2014"	"2014"	701	61744	1135.3
+"Total"	"Bradford County, PA"	"42015"			5998	562031	1067.2
+	"Bucks County, PA"	"42017"	"2006"	"2006"	5020	619544	810.3
+	"Bucks County, PA"	"42017"	"2007"	"2007"	5065	621336	815.2
+	"Bucks County, PA"	"42017"	"2008"	"2008"	5063	623297	812.3
+	"Bucks County, PA"	"42017"	"2009"	"2009"	5218	624648	835.4
+	"Bucks County, PA"	"42017"	"2010"	"2010"	5366	625249	858.2
+	"Bucks County, PA"	"42017"	"2011"	"2011"	5462	626397	872.0
+	"Bucks County, PA"	"42017"	"2012"	"2012"	5457	625930	871.8
+	"Bucks County, PA"	"42017"	"2013"	"2013"	5809	625783	928.3
+	"Bucks County, PA"	"42017"	"2014"	"2014"	5700	626169	910.3
+"Total"	"Bucks County, PA"	"42017"			48160	5618353	857.2
+	"Butler County, PA"	"42019"	"2006"	"2006"	1734	181009	958.0
+	"Butler County, PA"	"42019"	"2007"	"2007"	1807	181690	994.6
+	"Butler County, PA"	"42019"	"2008"	"2008"	1794	182673	982.1
+	"Butler County, PA"	"42019"	"2009"	"2009"	1771	183337	966.0
+	"Butler County, PA"	"42019"	"2010"	"2010"	1795	183862	976.3
+	"Butler County, PA"	"42019"	"2011"	"2011"	1846	184723	999.3
+	"Butler County, PA"	"42019"	"2012"	"2012"	1890	185081	1021.2
+	"Butler County, PA"	"42019"	"2013"	"2013"	1882	185360	1015.3
+	"Butler County, PA"	"42019"	"2014"	"2014"	1898	186141	1019.7
+"Total"	"Butler County, PA"	"42019"			16417	1653876	992.6
+	"Cambria County, PA"	"42021"	"2006"	"2006"	1889	146093	1293.0
+	"Cambria County, PA"	"42021"	"2007"	"2007"	1832	145283	1261.0
+	"Cambria County, PA"	"42021"	"2008"	"2008"	1804	144646	1247.2
+	"Cambria County, PA"	"42021"	"2009"	"2009"	1816	144186	1259.5
+	"Cambria County, PA"	"42021"	"2010"	"2010"	1865	143679	1298.0
+	"Cambria County, PA"	"42021"	"2011"	"2011"	1817	142572	1274.4
+	"Cambria County, PA"	"42021"	"2012"	"2012"	1805	141531	1275.3
+	"Cambria County, PA"	"42021"	"2013"	"2013"	1797	138837	1294.3
+	"Cambria County, PA"	"42021"	"2014"	"2014"	1782	137517	1295.8
+"Total"	"Cambria County, PA"	"42021"			16407	1284344	1277.5
+	"Cameron County, PA"	"42023"	"2006"	"2006"	77	5341	1441.7
+	"Cameron County, PA"	"42023"	"2007"	"2007"	60	5274	1137.7
+	"Cameron County, PA"	"42023"	"2008"	"2008"	63	5186	1214.8
+	"Cameron County, PA"	"42023"	"2009"	"2009"	69	5106	1351.4
+	"Cameron County, PA"	"42023"	"2010"	"2010"	66	5085	1297.9
+	"Cameron County, PA"	"42023"	"2011"	"2011"	68	4989	1363.0
+	"Cameron County, PA"	"42023"	"2012"	"2012"	70	4946	1415.3
+	"Cameron County, PA"	"42023"	"2013"	"2013"	54	4886	1105.2
+	"Cameron County, PA"	"42023"	"2014"	"2014"	53	4785	1107.6
+"Total"	"Cameron County, PA"	"42023"			580	45598	1272.0
+	"Carbon County, PA"	"42025"	"2006"	"2006"	820	63105	1299.4
+	"Carbon County, PA"	"42025"	"2007"	"2007"	760	64339	1181.2
+	"Carbon County, PA"	"42025"	"2008"	"2008"	717	64947	1104.0
+	"Carbon County, PA"	"42025"	"2009"	"2009"	776	65204	1190.1
+	"Carbon County, PA"	"42025"	"2010"	"2010"	789	65249	1209.2
+	"Carbon County, PA"	"42025"	"2011"	"2011"	819	65141	1257.3
+	"Carbon County, PA"	"42025"	"2012"	"2012"	788	64963	1213.0
+	"Carbon County, PA"	"42025"	"2013"	"2013"	802	64721	1239.2
+	"Carbon County, PA"	"42025"	"2014"	"2014"	777	64435	1205.9
+"Total"	"Carbon County, PA"	"42025"			7048	582104	1210.8
+	"Centre County, PA"	"42027"	"2006"	"2006"	865	148734	581.6
+	"Centre County, PA"	"42027"	"2007"	"2007"	892	149498	596.7
+	"Centre County, PA"	"42027"	"2008"	"2008"	944	151645	622.5
+	"Centre County, PA"	"42027"	"2009"	"2009"	916	153052	598.5
+	"Centre County, PA"	"42027"	"2010"	"2010"	934	153990	606.5
+	"Centre County, PA"	"42027"	"2011"	"2011"	939	154995	605.8
+	"Centre County, PA"	"42027"	"2012"	"2012"	922	155936	591.3
+	"Centre County, PA"	"42027"	"2013"	"2013"	899	158331	567.8
+	"Centre County, PA"	"42027"	"2014"	"2014"	877	159666	549.3
+"Total"	"Centre County, PA"	"42027"			8188	1385847	590.8
+	"Chester County, PA"	"42029"	"2006"	"2006"	3418	479137	713.4
+	"Chester County, PA"	"42029"	"2007"	"2007"	3418	486156	703.1
+	"Chester County, PA"	"42029"	"2008"	"2008"	3559	491473	724.1
+	"Chester County, PA"	"42029"	"2009"	"2009"	3504	496291	706.0
+	"Chester County, PA"	"42029"	"2010"	"2010"	3477	498886	697.0
+	"Chester County, PA"	"42029"	"2011"	"2011"	3683	503652	731.3
+	"Chester County, PA"	"42029"	"2012"	"2012"	3673	506278	725.5
+	"Chester County, PA"	"42029"	"2013"	"2013"	3675	509396	721.4
+	"Chester County, PA"	"42029"	"2014"	"2014"	3765	512899	734.1
+"Total"	"Chester County, PA"	"42029"			32172	4484168	717.5
+	"Clarion County, PA"	"42031"	"2006"	"2006"	420	40615	1034.1
+	"Clarion County, PA"	"42031"	"2007"	"2007"	400	40399	990.1
+	"Clarion County, PA"	"42031"	"2008"	"2008"	447	40355	1107.7
+	"Clarion County, PA"	"42031"	"2009"	"2009"	416	40173	1035.5
+	"Clarion County, PA"	"42031"	"2010"	"2010"	414	39988	1035.3
+	"Clarion County, PA"	"42031"	"2011"	"2011"	416	39883	1043.1
+	"Clarion County, PA"	"42031"	"2012"	"2012"	414	39437	1049.8
+	"Clarion County, PA"	"42031"	"2013"	"2013"	422	39066	1080.2
+	"Clarion County, PA"	"42031"	"2014"	"2014"	431	38847	1109.5
+"Total"	"Clarion County, PA"	"42031"			3780	358763	1053.6
+	"Clearfield County, PA"	"42033"	"2006"	"2006"	951	82461	1153.3
+	"Clearfield County, PA"	"42033"	"2007"	"2007"	939	82558	1137.4
+	"Clearfield County, PA"	"42033"	"2008"	"2008"	963	82130	1172.5
+	"Clearfield County, PA"	"42033"	"2009"	"2009"	899	81942	1097.1
+	"Clearfield County, PA"	"42033"	"2010"	"2010"	940	81642	1151.4
+	"Clearfield County, PA"	"42033"	"2011"	"2011"	922	81467	1131.7
+	"Clearfield County, PA"	"42033"	"2012"	"2012"	918	81479	1126.7
+	"Clearfield County, PA"	"42033"	"2013"	"2013"	919	81601	1126.2
+	"Clearfield County, PA"	"42033"	"2014"	"2014"	906	81205	1115.7
+"Total"	"Clearfield County, PA"	"42033"			8357	736485	1134.7
+	"Clinton County, PA"	"42035"	"2006"	"2006"	374	38730	965.7
+	"Clinton County, PA"	"42035"	"2007"	"2007"	400	38859	1029.4
+	"Clinton County, PA"	"42035"	"2008"	"2008"	445	38955	1142.3
+	"Clinton County, PA"	"42035"	"2009"	"2009"	380	39074	972.5
+	"Clinton County, PA"	"42035"	"2010"	"2010"	364	39238	927.7
+	"Clinton County, PA"	"42035"	"2011"	"2011"	417	39520	1055.2
+	"Clinton County, PA"	"42035"	"2012"	"2012"	363	39740	913.4
+	"Clinton County, PA"	"42035"	"2013"	"2013"	428	39854	1073.9
+	"Clinton County, PA"	"42035"	"2014"	"2014"	399	39494	1010.3
+"Total"	"Clinton County, PA"	"42035"			3570	353464	1010.0
+	"Columbia County, PA"	"42037"	"2006"	"2006"	652	65882	989.6
+	"Columbia County, PA"	"42037"	"2007"	"2007"	687	66196	1037.8
+	"Columbia County, PA"	"42037"	"2008"	"2008"	739	66645	1108.9
+	"Columbia County, PA"	"42037"	"2009"	"2009"	696	67220	1035.4
+	"Columbia County, PA"	"42037"	"2010"	"2010"	689	67295	1023.9
+	"Columbia County, PA"	"42037"	"2011"	"2011"	708	66926	1057.9
+	"Columbia County, PA"	"42037"	"2012"	"2012"	635	66888	949.3
+	"Columbia County, PA"	"42037"	"2013"	"2013"	654	67044	975.5
+	"Columbia County, PA"	"42037"	"2014"	"2014"	695	66922	1038.5
+"Total"	"Columbia County, PA"	"42037"			6155	601018	1024.1
+	"Crawford County, PA"	"42039"	"2006"	"2006"	941	89496	1051.4
+	"Crawford County, PA"	"42039"	"2007"	"2007"	999	89544	1115.7
+	"Crawford County, PA"	"42039"	"2008"	"2008"	1009	89023	1133.4
+	"Crawford County, PA"	"42039"	"2009"	"2009"	934	89044	1048.9
+	"Crawford County, PA"	"42039"	"2010"	"2010"	994	88765	1119.8
+	"Crawford County, PA"	"42039"	"2011"	"2011"	981	88104	1113.5
+	"Crawford County, PA"	"42039"	"2012"	"2012"	937	87675	1068.7
+	"Crawford County, PA"	"42039"	"2013"	"2013"	1058	87435	1210.0
+	"Crawford County, PA"	"42039"	"2014"	"2014"	957	87128	1098.4
+"Total"	"Crawford County, PA"	"42039"			8810	796214	1106.5
+	"Cumberland County, PA"	"42041"	"2006"	"2006"	2149	226835	947.4
+	"Cumberland County, PA"	"42041"	"2007"	"2007"	2081	228718	909.9
+	"Cumberland County, PA"	"42041"	"2008"	"2008"	2180	231357	942.3
+	"Cumberland County, PA"	"42041"	"2009"	"2009"	2046	233910	874.7
+	"Cumberland County, PA"	"42041"	"2010"	"2010"	2181	235406	926.5
+	"Cumberland County, PA"	"42041"	"2011"	"2011"	2211	236891	933.3
+	"Cumberland County, PA"	"42041"	"2012"	"2012"	2234	239217	933.9
+	"Cumberland County, PA"	"42041"	"2013"	"2013"	2264	241265	938.4
+	"Cumberland County, PA"	"42041"	"2014"	"2014"	2223	243689	912.2
+"Total"	"Cumberland County, PA"	"42041"			19569	2117288	924.2
+	"Dauphin County, PA"	"42043"	"2006"	"2006"	2328	260312	894.3
+	"Dauphin County, PA"	"42043"	"2007"	"2007"	2339	263096	889.0
+	"Dauphin County, PA"	"42043"	"2008"	"2008"	2505	265395	943.9
+	"Dauphin County, PA"	"42043"	"2009"	"2009"	2315	267090	866.7
+	"Dauphin County, PA"	"42043"	"2010"	"2010"	2345	268100	874.7
+	"Dauphin County, PA"	"42043"	"2011"	"2011"	2533	269059	941.4
+	"Dauphin County, PA"	"42043"	"2012"	"2012"	2336	269961	865.3
+	"Dauphin County, PA"	"42043"	"2013"	"2013"	2417	271259	891.0
+	"Dauphin County, PA"	"42043"	"2014"	"2014"	2410	271977	886.1
+"Total"	"Dauphin County, PA"	"42043"			21528	2406249	894.7
+	"Delaware County, PA"	"42045"	"2006"	"2006"	5599	553806	1011.0
+	"Delaware County, PA"	"42045"	"2007"	"2007"	5544	554916	999.1
+	"Delaware County, PA"	"42045"	"2008"	"2008"	5498	556246	988.4
+	"Delaware County, PA"	"42045"	"2009"	"2009"	5261	558094	942.7
+	"Delaware County, PA"	"42045"	"2010"	"2010"	5489	558979	982.0
+	"Delaware County, PA"	"42045"	"2011"	"2011"	5421	559094	969.6
+	"Delaware County, PA"	"42045"	"2012"	"2012"	5392	560834	961.4
+	"Delaware County, PA"	"42045"	"2013"	"2013"	5532	561439	985.3
+	"Delaware County, PA"	"42045"	"2014"	"2014"	5395	562582	959.0
+"Total"	"Delaware County, PA"	"42045"			49131	5025990	977.5
+	"Elk County, PA"	"42047"	"2006"	"2006"	340	33006	1030.1
+	"Elk County, PA"	"42047"	"2007"	"2007"	355	32833	1081.2
+	"Elk County, PA"	"42047"	"2008"	"2008"	357	32504	1098.3
+	"Elk County, PA"	"42047"	"2009"	"2009"	363	32208	1127.0
+	"Elk County, PA"	"42047"	"2010"	"2010"	380	31946	1189.5
+	"Elk County, PA"	"42047"	"2011"	"2011"	395	31796	1242.3
+	"Elk County, PA"	"42047"	"2012"	"2012"	376	31627	1188.9
+	"Elk County, PA"	"42047"	"2013"	"2013"	400	31431	1272.6
+	"Elk County, PA"	"42047"	"2014"	"2014"	374	31139	1201.1
+"Total"	"Elk County, PA"	"42047"			3340	288490	1157.8
+	"Erie County, PA"	"42049"	"2006"	"2006"	2622	278389	941.8
+	"Erie County, PA"	"42049"	"2007"	"2007"	2661	278573	955.2
+	"Erie County, PA"	"42049"	"2008"	"2008"	2808	278686	1007.6
+	"Erie County, PA"	"42049"	"2009"	"2009"	2681	279838	958.1
+	"Erie County, PA"	"42049"	"2010"	"2010"	2650	280566	944.5
+	"Erie County, PA"	"42049"	"2011"	"2011"	2822	281197	1003.6
+	"Erie County, PA"	"42049"	"2012"	"2012"	2890	281541	1026.5
+	"Erie County, PA"	"42049"	"2013"	"2013"	2825	280613	1006.7
+	"Erie County, PA"	"42049"	"2014"	"2014"	2862	279251	1024.9
+"Total"	"Erie County, PA"	"42049"			24821	2518654	985.5
+	"Fayette County, PA"	"42051"	"2006"	"2006"	1724	141165	1221.3
+	"Fayette County, PA"	"42051"	"2007"	"2007"	1773	140159	1265.0
+	"Fayette County, PA"	"42051"	"2008"	"2008"	1886	138813	1358.7
+	"Fayette County, PA"	"42051"	"2009"	"2009"	1834	137450	1334.3
+	"Fayette County, PA"	"42051"	"2010"	"2010"	1801	136606	1318.4
+	"Fayette County, PA"	"42051"	"2011"	"2011"	1783	136032	1310.7
+	"Fayette County, PA"	"42051"	"2012"	"2012"	1780	135464	1314.0
+	"Fayette County, PA"	"42051"	"2013"	"2013"	1770	134867	1312.4
+	"Fayette County, PA"	"42051"	"2014"	"2014"	1753	134376	1304.5
+"Total"	"Fayette County, PA"	"42051"			16104	1234932	1304.0
+	"Forest County, PA"	"42053"	"2006"	"2006"	93	7519	1236.9
+	"Forest County, PA"	"42053"	"2007"	"2007"	73	7512	971.8
+	"Forest County, PA"	"42053"	"2008"	"2008"	92	7470	1231.6
+	"Forest County, PA"	"42053"	"2009"	"2009"	84	7737	1085.7
+	"Forest County, PA"	"42053"	"2010"	"2010"	78	7716	1010.9
+	"Forest County, PA"	"42053"	"2011"	"2011"	100	7734	1293.0
+	"Forest County, PA"	"42053"	"2012"	"2012"	91	7655	1188.8
+	"Forest County, PA"	"42053"	"2013"	"2013"	87	7572	1149.0
+	"Forest County, PA"	"42053"	"2014"	"2014"	85	7499	1133.5
+"Total"	"Forest County, PA"	"42053"			783	68414	1144.5
+	"Franklin County, PA"	"42055"	"2006"	"2006"	1286	142421	903.0
+	"Franklin County, PA"	"42055"	"2007"	"2007"	1342	144840	926.5
+	"Franklin County, PA"	"42055"	"2008"	"2008"	1300	147032	884.2
+	"Franklin County, PA"	"42055"	"2009"	"2009"	1409	148662	947.8
+	"Franklin County, PA"	"42055"	"2010"	"2010"	1374	149618	918.3
+	"Franklin County, PA"	"42055"	"2011"	"2011"	1393	151014	922.4
+	"Franklin County, PA"	"42055"	"2012"	"2012"	1399	151575	923.0
+	"Franklin County, PA"	"42055"	"2013"	"2013"	1409	152063	926.6
+	"Franklin County, PA"	"42055"	"2014"	"2014"	1521	152751	995.7
+"Total"	"Franklin County, PA"	"42055"			12433	1339976	927.9
+	"Fulton County, PA"	"42057"	"2006"	"2006"	136	14714	924.3
+	"Fulton County, PA"	"42057"	"2007"	"2007"	121	14900	812.1
+	"Fulton County, PA"	"42057"	"2008"	"2008"	139	14900	932.9
+	"Fulton County, PA"	"42057"	"2009"	"2009"	126	14828	849.7
+	"Fulton County, PA"	"42057"	"2010"	"2010"	149	14845	1003.7
+	"Fulton County, PA"	"42057"	"2011"	"2011"	113	14773	764.9
+	"Fulton County, PA"	"42057"	"2012"	"2012"	147	14749	996.7
+	"Fulton County, PA"	"42057"	"2013"	"2013"	161	14668	1097.6
+	"Fulton County, PA"	"42057"	"2014"	"2014"	150	14604	1027.1
+"Total"	"Fulton County, PA"	"42057"			1242	132981	934.0
+	"Greene County, PA"	"42059"	"2006"	"2006"	420	39342	1067.6
+	"Greene County, PA"	"42059"	"2007"	"2007"	374	39096	956.6
+	"Greene County, PA"	"42059"	"2008"	"2008"	427	39074	1092.8
+	"Greene County, PA"	"42059"	"2009"	"2009"	440	38862	1132.2
+	"Greene County, PA"	"42059"	"2010"	"2010"	470	38686	1214.9
+	"Greene County, PA"	"42059"	"2011"	"2011"	437	38418	1137.5
+	"Greene County, PA"	"42059"	"2012"	"2012"	448	38063	1177.0
+	"Greene County, PA"	"42059"	"2013"	"2013"	430	37862	1135.7
+	"Greene County, PA"	"42059"	"2014"	"2014"	390	37783	1032.2
+"Total"	"Greene County, PA"	"42059"			3836	347186	1104.9
+	"Huntingdon County, PA"	"42061"	"2006"	"2006"	419	45684	917.2
+	"Huntingdon County, PA"	"42061"	"2007"	"2007"	451	45802	984.7
+	"Huntingdon County, PA"	"42061"	"2008"	"2008"	477	45853	1040.3
+	"Huntingdon County, PA"	"42061"	"2009"	"2009"	451	45896	982.7
+	"Huntingdon County, PA"	"42061"	"2010"	"2010"	405	45913	882.1
+	"Huntingdon County, PA"	"42061"	"2011"	"2011"	449	46130	973.3
+	"Huntingdon County, PA"	"42061"	"2012"	"2012"	462	46052	1003.2
+	"Huntingdon County, PA"	"42061"	"2013"	"2013"	419	45949	911.9
+	"Huntingdon County, PA"	"42061"	"2014"	"2014"	447	45866	974.6
+"Total"	"Huntingdon County, PA"	"42061"			3980	413145	963.3
+	"Indiana County, PA"	"42063"	"2006"	"2006"	886	88716	998.7
+	"Indiana County, PA"	"42063"	"2007"	"2007"	839	88520	947.8
+	"Indiana County, PA"	"42063"	"2008"	"2008"	853	88807	960.5
+	"Indiana County, PA"	"42063"	"2009"	"2009"	859	88836	967.0
+	"Indiana County, PA"	"42063"	"2010"	"2010"	888	88880	999.1
+	"Indiana County, PA"	"42063"	"2011"	"2011"	901	88575	1017.2
+	"Indiana County, PA"	"42063"	"2012"	"2012"	861	88255	975.6
+	"Indiana County, PA"	"42063"	"2013"	"2013"	899	88264	1018.5
+	"Indiana County, PA"	"42063"	"2014"	"2014"	882	87597	1006.9
+"Total"	"Indiana County, PA"	"42063"			7868	796450	987.9
+	"Jefferson County, PA"	"42065"	"2006"	"2006"	542	45323	1195.9
+	"Jefferson County, PA"	"42065"	"2007"	"2007"	525	45335	1158.0
+	"Jefferson County, PA"	"42065"	"2008"	"2008"	569	45260	1257.2
+	"Jefferson County, PA"	"42065"	"2009"	"2009"	511	45073	1133.7
+	"Jefferson County, PA"	"42065"	"2010"	"2010"	601	45200	1329.6
+	"Jefferson County, PA"	"42065"	"2011"	"2011"	534	44930	1188.5
+	"Jefferson County, PA"	"42065"	"2012"	"2012"	583	44839	1300.2
+	"Jefferson County, PA"	"42065"	"2013"	"2013"	549	44946	1221.5
+	"Jefferson County, PA"	"42065"	"2014"	"2014"	560	44605	1255.5
+"Total"	"Jefferson County, PA"	"42065"			4974	405511	1226.6
+	"Juniata County, PA"	"42067"	"2006"	"2006"	223	24107	925.0
+	"Juniata County, PA"	"42067"	"2007"	"2007"	208	24238	858.2
+	"Juniata County, PA"	"42067"	"2008"	"2008"	236	24409	966.9
+	"Juniata County, PA"	"42067"	"2009"	"2009"	222	24549	904.3
+	"Juniata County, PA"	"42067"	"2010"	"2010"	242	24636	982.3
+	"Juniata County, PA"	"42067"	"2011"	"2011"	217	24919	870.8
+	"Juniata County, PA"	"42067"	"2012"	"2012"	263	24900	1056.2
+	"Juniata County, PA"	"42067"	"2013"	"2013"	245	24777	988.8
+	"Juniata County, PA"	"42067"	"2014"	"2014"	250	24781	1008.8
+"Total"	"Juniata County, PA"	"42067"			2106	221316	951.6
+	"Lackawanna County, PA"	"42069"	"2006"	"2006"	2712	212595	1275.7
+	"Lackawanna County, PA"	"42069"	"2007"	"2007"	2622	213513	1228.0
+	"Lackawanna County, PA"	"42069"	"2008"	"2008"	2821	214044	1318.0
+	"Lackawanna County, PA"	"42069"	"2009"	"2009"	2631	214138	1228.6
+	"Lackawanna County, PA"	"42069"	"2010"	"2010"	2599	214437	1212.0
+	"Lackawanna County, PA"	"42069"	"2011"	"2011"	2672	214587	1245.2
+	"Lackawanna County, PA"	"42069"	"2012"	"2012"	2754	214583	1283.4
+	"Lackawanna County, PA"	"42069"	"2013"	"2013"	2728	213986	1274.8
+	"Lackawanna County, PA"	"42069"	"2014"	"2014"	2617	212963	1228.9
+"Total"	"Lackawanna County, PA"	"42069"			24156	1924846	1255.0
+	"Lancaster County, PA"	"42071"	"2006"	"2006"	4353	500922	869.0
+	"Lancaster County, PA"	"42071"	"2007"	"2007"	4356	506639	859.8
+	"Lancaster County, PA"	"42071"	"2008"	"2008"	4644	511957	907.1
+	"Lancaster County, PA"	"42071"	"2009"	"2009"	4491	516577	869.4
+	"Lancaster County, PA"	"42071"	"2010"	"2010"	4392	519445	845.5
+	"Lancaster County, PA"	"42071"	"2011"	"2011"	4502	523689	859.7
+	"Lancaster County, PA"	"42071"	"2012"	"2012"	4756	526864	902.7
+	"Lancaster County, PA"	"42071"	"2013"	"2013"	4776	530189	900.8
+	"Lancaster County, PA"	"42071"	"2014"	"2014"	4814	533650	902.1
+"Total"	"Lancaster County, PA"	"42071"			41084	4669932	879.8
+	"Lawrence County, PA"	"42073"	"2006"	"2006"	1061	92248	1150.2
+	"Lawrence County, PA"	"42073"	"2007"	"2007"	1071	92007	1164.0
+	"Lawrence County, PA"	"42073"	"2008"	"2008"	1137	91798	1238.6
+	"Lawrence County, PA"	"42073"	"2009"	"2009"	1107	91391	1211.3
+	"Lawrence County, PA"	"42073"	"2010"	"2010"	1099	91108	1206.3
+	"Lawrence County, PA"	"42073"	"2011"	"2011"	1164	90322	1288.7
+	"Lawrence County, PA"	"42073"	"2012"	"2012"	1112	89713	1239.5
+	"Lawrence County, PA"	"42073"	"2013"	"2013"	1147	89120	1287.0
+	"Lawrence County, PA"	"42073"	"2014"	"2014"	1196	88476	1351.8
+"Total"	"Lawrence County, PA"	"42073"			10094	816183	1236.7
+	"Lebanon County, PA"	"42075"	"2006"	"2006"	1331	128302	1037.4
+	"Lebanon County, PA"	"42075"	"2007"	"2007"	1344	130182	1032.4
+	"Lebanon County, PA"	"42075"	"2008"	"2008"	1345	131574	1022.2
+	"Lebanon County, PA"	"42075"	"2009"	"2009"	1372	132959	1031.9
+	"Lebanon County, PA"	"42075"	"2010"	"2010"	1350	133568	1010.7
+	"Lebanon County, PA"	"42075"	"2011"	"2011"	1442	134482	1072.3
+	"Lebanon County, PA"	"42075"	"2012"	"2012"	1326	135633	977.6
+	"Lebanon County, PA"	"42075"	"2013"	"2013"	1491	135866	1097.4
+	"Lebanon County, PA"	"42075"	"2014"	"2014"	1315	136657	962.3
+"Total"	"Lebanon County, PA"	"42075"			12316	1199223	1027.0
+	"Lehigh County, PA"	"42077"	"2006"	"2006"	3135	336794	930.8
+	"Lehigh County, PA"	"42077"	"2007"	"2007"	3066	340848	899.5
+	"Lehigh County, PA"	"42077"	"2008"	"2008"	3048	344743	884.1
+	"Lehigh County, PA"	"42077"	"2009"	"2009"	3096	347237	891.6
+	"Lehigh County, PA"	"42077"	"2010"	"2010"	3163	349497	905.0
+	"Lehigh County, PA"	"42077"	"2011"	"2011"	3263	353625	922.7
+	"Lehigh County, PA"	"42077"	"2012"	"2012"	3401	355403	956.9
+	"Lehigh County, PA"	"42077"	"2013"	"2013"	3296	356006	925.8
+	"Lehigh County, PA"	"42077"	"2014"	"2014"	3375	358552	941.3
+"Total"	"Lehigh County, PA"	"42077"			28843	3142705	917.8
+	"Luzerne County, PA"	"42079"	"2006"	"2006"	4073	316837	1285.5
+	"Luzerne County, PA"	"42079"	"2007"	"2007"	4117	318232	1293.7
+	"Luzerne County, PA"	"42079"	"2008"	"2008"	4127	319210	1292.9
+	"Luzerne County, PA"	"42079"	"2009"	"2009"	4023	320527	1255.1
+	"Luzerne County, PA"	"42079"	"2010"	"2010"	3973	320918	1238.0
+	"Luzerne County, PA"	"42079"	"2011"	"2011"	3984	321129	1240.6
+	"Luzerne County, PA"	"42079"	"2012"	"2012"	3905	321420	1214.9
+	"Luzerne County, PA"	"42079"	"2013"	"2013"	4184	319893	1307.9
+	"Luzerne County, PA"	"42079"	"2014"	"2014"	4027	319079	1262.1
+"Total"	"Luzerne County, PA"	"42079"			36413	2877245	1265.6
+	"Lycoming County, PA"	"42081"	"2006"	"2006"	1185	116983	1013.0
+	"Lycoming County, PA"	"42081"	"2007"	"2007"	1303	116524	1118.2
+	"Lycoming County, PA"	"42081"	"2008"	"2008"	1218	116147	1048.7
+	"Lycoming County, PA"	"42081"	"2009"	"2009"	1301	116081	1120.8
+	"Lycoming County, PA"	"42081"	"2010"	"2010"	1227	116111	1056.7
+	"Lycoming County, PA"	"42081"	"2011"	"2011"	1253	116677	1073.9
+	"Lycoming County, PA"	"42081"	"2012"	"2012"	1245	117319	1061.2
+	"Lycoming County, PA"	"42081"	"2013"	"2013"	1182	116720	1012.7
+	"Lycoming County, PA"	"42081"	"2014"	"2014"	1318	116450	1131.8
+"Total"	"Lycoming County, PA"	"42081"			11232	1049012	1070.7
+	"Mc Kean County, PA"	"42083"	"2006"	"2006"	537	44309	1211.9
+	"Mc Kean County, PA"	"42083"	"2007"	"2007"	529	44045	1201.0
+	"Mc Kean County, PA"	"42083"	"2008"	"2008"	498	43856	1135.5
+	"Mc Kean County, PA"	"42083"	"2009"	"2009"	523	43701	1196.8
+	"Mc Kean County, PA"	"42083"	"2010"	"2010"	505	43450	1162.3
+	"Mc Kean County, PA"	"42083"	"2011"	"2011"	521	43187	1206.4
+	"Mc Kean County, PA"	"42083"	"2012"	"2012"	529	43234	1223.6
+	"Mc Kean County, PA"	"42083"	"2013"	"2013"	539	42844	1258.1
+	"Mc Kean County, PA"	"42083"	"2014"	"2014"	496	42670	1162.4
+"Total"	"Mc Kean County, PA"	"42083"			4677	391296	1195.3
+	"Mercer County, PA"	"42085"	"2006"	"2006"	1375	118123	1164.0
+	"Mercer County, PA"	"42085"	"2007"	"2007"	1461	117794	1240.3
+	"Mercer County, PA"	"42085"	"2008"	"2008"	1456	117189	1242.4
+	"Mercer County, PA"	"42085"	"2009"	"2009"	1411	116816	1207.9
+	"Mercer County, PA"	"42085"	"2010"	"2010"	1408	116638	1207.2
+	"Mercer County, PA"	"42085"	"2011"	"2011"	1383	116243	1189.7
+	"Mercer County, PA"	"42085"	"2012"	"2012"	1398	115806	1207.2
+	"Mercer County, PA"	"42085"	"2013"	"2013"	1422	115343	1232.8
+	"Mercer County, PA"	"42085"	"2014"	"2014"	1377	114936	1198.1
+"Total"	"Mercer County, PA"	"42085"			12691	1048888	1209.9
+	"Mifflin County, PA"	"42087"	"2006"	"2006"	525	46435	1130.6
+	"Mifflin County, PA"	"42087"	"2007"	"2007"	477	46551	1024.7
+	"Mifflin County, PA"	"42087"	"2008"	"2008"	540	46600	1158.8
+	"Mifflin County, PA"	"42087"	"2009"	"2009"	478	46662	1024.4
+	"Mifflin County, PA"	"42087"	"2010"	"2010"	522	46682	1118.2
+	"Mifflin County, PA"	"42087"	"2011"	"2011"	512	46776	1094.6
+	"Mifflin County, PA"	"42087"	"2012"	"2012"	484	46832	1033.5
+	"Mifflin County, PA"	"42087"	"2013"	"2013"	518	46714	1108.9
+	"Mifflin County, PA"	"42087"	"2014"	"2014"	533	46555	1144.9
+"Total"	"Mifflin County, PA"	"42087"			4589	419807	1093.1
+	"Monroe County, PA"	"42089"	"2006"	"2006"	1230	165185	744.6
+	"Monroe County, PA"	"42089"	"2007"	"2007"	1204	167352	719.4
+	"Monroe County, PA"	"42089"	"2008"	"2008"	1259	168576	746.8
+	"Monroe County, PA"	"42089"	"2009"	"2009"	1354	169390	799.3
+	"Monroe County, PA"	"42089"	"2010"	"2010"	1242	169842	731.3
+	"Monroe County, PA"	"42089"	"2011"	"2011"	1237	169868	728.2
+	"Monroe County, PA"	"42089"	"2012"	"2012"	1338	168567	793.7
+	"Monroe County, PA"	"42089"	"2013"	"2013"	1373	167271	820.8
+	"Monroe County, PA"	"42089"	"2014"	"2014"	1343	167197	803.2
+"Total"	"Monroe County, PA"	"42089"			11580	1513248	765.2
+	"Montgomery County, PA"	"42091"	"2006"	"2006"	7017	781519	897.9
+	"Montgomery County, PA"	"42091"	"2007"	"2007"	7118	785170	906.6
+	"Montgomery County, PA"	"42091"	"2008"	"2008"	6957	789250	881.5
+	"Montgomery County, PA"	"42091"	"2009"	"2009"	7050	795494	886.2
+	"Montgomery County, PA"	"42091"	"2010"	"2010"	6995	799874	874.5
+	"Montgomery County, PA"	"42091"	"2011"	"2011"	7249	805500	899.9
+	"Montgomery County, PA"	"42091"	"2012"	"2012"	7196	809540	888.9
+	"Montgomery County, PA"	"42091"	"2013"	"2013"	7274	813400	894.3
+	"Montgomery County, PA"	"42091"	"2014"	"2014"	7332	816350	898.1
+"Total"	"Montgomery County, PA"	"42091"			64188	7196097	892.0
+	"Montour County, PA"	"42093"	"2006"	"2006"	232	18114	1280.8
+	"Montour County, PA"	"42093"	"2007"	"2007"	234	18107	1292.3
+	"Montour County, PA"	"42093"	"2008"	"2008"	234	18090	1293.5
+	"Montour County, PA"	"42093"	"2009"	"2009"	210	18165	1156.1
+	"Montour County, PA"	"42093"	"2010"	"2010"	201	18267	1100.3
+	"Montour County, PA"	"42093"	"2011"	"2011"	235	18363	1279.7
+	"Montour County, PA"	"42093"	"2012"	"2012"	213	18454	1154.2
+	"Montour County, PA"	"42093"	"2013"	"2013"	220	18419	1194.4
+	"Montour County, PA"	"42093"	"2014"	"2014"	236	18444	1279.5
+"Total"	"Montour County, PA"	"42093"			2015	164423	1225.5
+	"Northampton County, PA"	"42095"	"2006"	"2006"	2583	289628	891.8
+	"Northampton County, PA"	"42095"	"2007"	"2007"	2629	293212	896.6
+	"Northampton County, PA"	"42095"	"2008"	"2008"	2723	295096	922.8
+	"Northampton County, PA"	"42095"	"2009"	"2009"	2684	296645	904.8
+	"Northampton County, PA"	"42095"	"2010"	"2010"	2745	297735	922.0
+	"Northampton County, PA"	"42095"	"2011"	"2011"	2765	298280	927.0
+	"Northampton County, PA"	"42095"	"2012"	"2012"	2811	299293	939.2
+	"Northampton County, PA"	"42095"	"2013"	"2013"	2897	299527	967.2
+	"Northampton County, PA"	"42095"	"2014"	"2014"	2965	300296	987.4
+"Total"	"Northampton County, PA"	"42095"			24802	2669712	929.0
+	"Northumberland County, PA"	"42097"	"2006"	"2006"	1134	93475	1213.2
+	"Northumberland County, PA"	"42097"	"2007"	"2007"	1144	93728	1220.6
+	"Northumberland County, PA"	"42097"	"2008"	"2008"	1206	94150	1280.9
+	"Northumberland County, PA"	"42097"	"2009"	"2009"	1094	94774	1154.3
+	"Northumberland County, PA"	"42097"	"2010"	"2010"	1162	94528	1229.3
+	"Northumberland County, PA"	"42097"	"2011"	"2011"	1226	94451	1298.0
+	"Northumberland County, PA"	"42097"	"2012"	"2012"	1136	94512	1202.0
+	"Northumberland County, PA"	"42097"	"2013"	"2013"	1138	94025	1210.3
+	"Northumberland County, PA"	"42097"	"2014"	"2014"	1149	93729	1225.9
+"Total"	"Northumberland County, PA"	"42097"			10389	847372	1226.0
+	"Perry County, PA"	"42099"	"2006"	"2006"	400	45121	886.5
+	"Perry County, PA"	"42099"	"2007"	"2007"	396	45454	871.2
+	"Perry County, PA"	"42099"	"2008"	"2008"	419	45549	919.9
+	"Perry County, PA"	"42099"	"2009"	"2009"	384	45874	837.1
+	"Perry County, PA"	"42099"	"2010"	"2010"	411	45969	894.1
+	"Perry County, PA"	"42099"	"2011"	"2011"	433	45841	944.6
+	"Perry County, PA"	"42099"	"2012"	"2012"	428	45720	936.1
+	"Perry County, PA"	"42099"	"2013"	"2013"	435	45537	955.3
+	"Perry County, PA"	"42099"	"2014"	"2014"	438	45479	963.1
+"Total"	"Perry County, PA"	"42099"			3744	410544	912.0
+	"Philadelphia County, PA"	"42101"	"2006"	"2006"	15420	1488710	1035.8
+	"Philadelphia County, PA"	"42101"	"2007"	"2007"	15247	1493309	1021.0
+	"Philadelphia County, PA"	"42101"	"2008"	"2008"	14732	1499731	982.3
+	"Philadelphia County, PA"	"42101"	"2009"	"2009"	14519	1514694	958.5
+	"Philadelphia County, PA"	"42101"	"2010"	"2010"	14048	1526006	920.6
+	"Philadelphia County, PA"	"42101"	"2011"	"2011"	14788	1539022	960.9
+	"Philadelphia County, PA"	"42101"	"2012"	"2012"	14296	1550379	922.1
+	"Philadelphia County, PA"	"42101"	"2013"	"2013"	13977	1555868	898.3
+	"Philadelphia County, PA"	"42101"	"2014"	"2014"	14031	1560609	899.1
+"Total"	"Philadelphia County, PA"	"42101"			131058	13728328	954.7
+	"Pike County, PA"	"42103"	"2006"	"2006"	384	55601	690.6
+	"Pike County, PA"	"42103"	"2007"	"2007"	426	56627	752.3
+	"Pike County, PA"	"42103"	"2008"	"2008"	427	57739	739.5
+	"Pike County, PA"	"42103"	"2009"	"2009"	428	57671	742.1
+	"Pike County, PA"	"42103"	"2010"	"2010"	395	57369	688.5
+	"Pike County, PA"	"42103"	"2011"	"2011"	457	57529	794.4
+	"Pike County, PA"	"42103"	"2012"	"2012"	468	56758	824.6
+	"Pike County, PA"	"42103"	"2013"	"2013"	486	56598	858.7
+	"Pike County, PA"	"42103"	"2014"	"2014"	460	56205	818.4
+"Total"	"Pike County, PA"	"42103"			3931	512097	767.6
+	"Potter County, PA"	"42105"	"2006"	"2006"	204	17944	1136.9
+	"Potter County, PA"	"42105"	"2007"	"2007"	192	17659	1087.3
+	"Potter County, PA"	"42105"	"2008"	"2008"	192	17464	1099.4
+	"Potter County, PA"	"42105"	"2009"	"2009"	196	17382	1127.6
+	"Potter County, PA"	"42105"	"2010"	"2010"	192	17457	1099.8
+	"Potter County, PA"	"42105"	"2011"	"2011"	199	17444	1140.8
+	"Potter County, PA"	"42105"	"2012"	"2012"	198	17610	1124.4
+	"Potter County, PA"	"42105"	"2013"	"2013"	213	17478	1218.7
+	"Potter County, PA"	"42105"	"2014"	"2014"	211	17182	1228.0
+"Total"	"Potter County, PA"	"42105"			1797	157620	1140.1
+	"Schuylkill County, PA"	"42107"	"2006"	"2006"	1986	148005	1341.8
+	"Schuylkill County, PA"	"42107"	"2007"	"2007"	1850	148387	1246.7
+	"Schuylkill County, PA"	"42107"	"2008"	"2008"	1939	148463	1306.0
+	"Schuylkill County, PA"	"42107"	"2009"	"2009"	1854	148358	1249.7
+	"Schuylkill County, PA"	"42107"	"2010"	"2010"	1862	148289	1255.7
+	"Schuylkill County, PA"	"42107"	"2011"	"2011"	1944	147621	1316.9
+	"Schuylkill County, PA"	"42107"	"2012"	"2012"	1944	147302	1319.7
+	"Schuylkill County, PA"	"42107"	"2013"	"2013"	1995	146758	1359.4
+	"Schuylkill County, PA"	"42107"	"2014"	"2014"	1936	145559	1330.0
+"Total"	"Schuylkill County, PA"	"42107"			17310	1328742	1302.7
+	"Snyder County, PA"	"42109"	"2006"	"2006"	311	38946	798.5
+	"Snyder County, PA"	"42109"	"2007"	"2007"	301	39295	766.0
+	"Snyder County, PA"	"42109"	"2008"	"2008"	357	39481	904.2
+	"Snyder County, PA"	"42109"	"2009"	"2009"	329	39550	831.9
+	"Snyder County, PA"	"42109"	"2010"	"2010"	329	39702	828.7
+	"Snyder County, PA"	"42109"	"2011"	"2011"	316	39664	796.7
+	"Snyder County, PA"	"42109"	"2012"	"2012"	366	39803	919.5
+	"Snyder County, PA"	"42109"	"2013"	"2013"	374	40091	932.9
+	"Snyder County, PA"	"42109"	"2014"	"2014"	338	40271	839.3
+"Total"	"Snyder County, PA"	"42109"			3021	356803	846.7
+	"Somerset County, PA"	"42111"	"2006"	"2006"	940	78834	1192.4
+	"Somerset County, PA"	"42111"	"2007"	"2007"	938	78490	1195.1
+	"Somerset County, PA"	"42111"	"2008"	"2008"	913	78120	1168.7
+	"Somerset County, PA"	"42111"	"2009"	"2009"	923	78025	1183.0
+	"Somerset County, PA"	"42111"	"2010"	"2010"	893	77742	1148.7
+	"Somerset County, PA"	"42111"	"2011"	"2011"	935	77377	1208.4
+	"Somerset County, PA"	"42111"	"2012"	"2012"	910	77191	1178.9
+	"Somerset County, PA"	"42111"	"2013"	"2013"	1064	76769	1386.0
+	"Somerset County, PA"	"42111"	"2014"	"2014"	969	76334	1269.4
+"Total"	"Somerset County, PA"	"42111"			8485	698882	1214.1
+	"Sullivan County, PA"	"42113"	"2006"	"2006"	94	6487	1449.1
+	"Sullivan County, PA"	"42113"	"2007"	"2007"	98	6525	1501.9
+	"Sullivan County, PA"	"42113"	"2008"	"2008"	102	6462	1578.5
+	"Sullivan County, PA"	"42113"	"2009"	"2009"	96	6449	1488.6
+	"Sullivan County, PA"	"42113"	"2010"	"2010"	104	6428	1617.9
+	"Sullivan County, PA"	"42113"	"2011"	"2011"	125	6448	1938.6
+	"Sullivan County, PA"	"42113"	"2012"	"2012"	106	6446	1644.4
+	"Sullivan County, PA"	"42113"	"2013"	"2013"	109	6325	1723.3
+	"Sullivan County, PA"	"42113"	"2014"	"2014"	102	6311	1616.2
+"Total"	"Sullivan County, PA"	"42113"			936	57881	1617.1
+	"Susquehanna County, PA"	"42115"	"2006"	"2006"	453	43376	1044.4
+	"Susquehanna County, PA"	"42115"	"2007"	"2007"	453	43310	1045.9
+	"Susquehanna County, PA"	"42115"	"2008"	"2008"	509	43405	1172.7
+	"Susquehanna County, PA"	"42115"	"2009"	"2009"	412	43346	950.5
+	"Susquehanna County, PA"	"42115"	"2010"	"2010"	479	43356	1104.8
+	"Susquehanna County, PA"	"42115"	"2011"	"2011"	483	43120	1120.1
+	"Susquehanna County, PA"	"42115"	"2012"	"2012"	430	42758	1005.7
+	"Susquehanna County, PA"	"42115"	"2013"	"2013"	464	42266	1097.8
+	"Susquehanna County, PA"	"42115"	"2014"	"2014"	504	41828	1204.9
+"Total"	"Susquehanna County, PA"	"42115"			4187	386765	1082.6
+	"Tioga County, PA"	"42117"	"2006"	"2006"	428	41347	1035.1
+	"Tioga County, PA"	"42117"	"2007"	"2007"	411	41371	993.4
+	"Tioga County, PA"	"42117"	"2008"	"2008"	438	41609	1052.7
+	"Tioga County, PA"	"42117"	"2009"	"2009"	430	41818	1028.3
+	"Tioga County, PA"	"42117"	"2010"	"2010"	456	41981	1086.2
+	"Tioga County, PA"	"42117"	"2011"	"2011"	432	42414	1018.5
+	"Tioga County, PA"	"42117"	"2012"	"2012"	417	42606	978.7
+	"Tioga County, PA"	"42117"	"2013"	"2013"	487	42397	1148.7
+	"Tioga County, PA"	"42117"	"2014"	"2014"	450	42051	1070.1
+"Total"	"Tioga County, PA"	"42117"			3949	377594	1045.8
+	"Union County, PA"	"42119"	"2006"	"2006"	369	44666	826.1
+	"Union County, PA"	"42119"	"2007"	"2007"	343	44846	764.8
+	"Union County, PA"	"42119"	"2008"	"2008"	375	45057	832.3
+	"Union County, PA"	"42119"	"2009"	"2009"	386	44795	861.7
+	"Union County, PA"	"42119"	"2010"	"2010"	394	44947	876.6
+	"Union County, PA"	"42119"	"2011"	"2011"	379	45064	841.0
+	"Union County, PA"	"42119"	"2012"	"2012"	350	45143	775.3
+	"Union County, PA"	"42119"	"2013"	"2013"	379	44746	847.0
+	"Union County, PA"	"42119"	"2014"	"2014"	364	44944	809.9
+"Total"	"Union County, PA"	"42119"			3339	404208	826.1
+	"Venango County, PA"	"42121"	"2006"	"2006"	617	55761	1106.5
+	"Venango County, PA"	"42121"	"2007"	"2007"	596	55510	1073.7
+	"Venango County, PA"	"42121"	"2008"	"2008"	660	55315	1193.2
+	"Venango County, PA"	"42121"	"2009"	"2009"	631	55087	1145.5
+	"Venango County, PA"	"42121"	"2010"	"2010"	636	54984	1156.7
+	"Venango County, PA"	"42121"	"2011"	"2011"	711	54713	1299.5
+	"Venango County, PA"	"42121"	"2012"	"2012"	674	54232	1242.8
+	"Venango County, PA"	"42121"	"2013"	"2013"	609	53905	1129.8
+	"Venango County, PA"	"42121"	"2014"	"2014"	637	53479	1191.1
+"Total"	"Venango County, PA"	"42121"			5771	492986	1170.6
+	"Warren County, PA"	"42123"	"2006"	"2006"	466	41972	1110.3
+	"Warren County, PA"	"42123"	"2007"	"2007"	494	41963	1177.2
+	"Warren County, PA"	"42123"	"2008"	"2008"	508	41853	1213.8
+	"Warren County, PA"	"42123"	"2009"	"2009"	497	41831	1188.1
+	"Warren County, PA"	"42123"	"2010"	"2010"	457	41815	1092.9
+	"Warren County, PA"	"42123"	"2011"	"2011"	507	41502	1221.6
+	"Warren County, PA"	"42123"	"2012"	"2012"	495	41239	1200.3
+	"Warren County, PA"	"42123"	"2013"	"2013"	543	40947	1326.1
+	"Warren County, PA"	"42123"	"2014"	"2014"	483	40690	1187.0
+"Total"	"Warren County, PA"	"42123"			4450	373812	1190.4
+	"Washington County, PA"	"42125"	"2006"	"2006"	2394	205992	1162.2
+	"Washington County, PA"	"42125"	"2007"	"2007"	2314	206259	1121.9
+	"Washington County, PA"	"42125"	"2008"	"2008"	2512	207240	1212.1
+	"Washington County, PA"	"42125"	"2009"	"2009"	2440	207571	1175.5
+	"Washington County, PA"	"42125"	"2010"	"2010"	2429	207820	1168.8
+	"Washington County, PA"	"42125"	"2011"	"2011"	2518	208069	1210.2
+	"Washington County, PA"	"42125"	"2012"	"2012"	2523	208480	1210.2
+	"Washington County, PA"	"42125"	"2013"	"2013"	2546	208264	1222.5
+	"Washington County, PA"	"42125"	"2014"	"2014"	2511	208354	1205.2
+"Total"	"Washington County, PA"	"42125"			22187	1868049	1187.7
+	"Wayne County, PA"	"42127"	"2006"	"2006"	598	52031	1149.3
+	"Wayne County, PA"	"42127"	"2007"	"2007"	541	52341	1033.6
+	"Wayne County, PA"	"42127"	"2008"	"2008"	603	51692	1166.5
+	"Wayne County, PA"	"42127"	"2009"	"2009"	565	52552	1075.1
+	"Wayne County, PA"	"42127"	"2010"	"2010"	562	52822	1064.0
+	"Wayne County, PA"	"42127"	"2011"	"2011"	591	52231	1131.5
+	"Wayne County, PA"	"42127"	"2012"	"2012"	606	51695	1172.3
+	"Wayne County, PA"	"42127"	"2013"	"2013"	620	51639	1200.6
+	"Wayne County, PA"	"42127"	"2014"	"2014"	614	51402	1194.5
+"Total"	"Wayne County, PA"	"42127"			5300	468405	1131.5
+	"Westmoreland County, PA"	"42129"	"2006"	"2006"	4252	366559	1160.0
+	"Westmoreland County, PA"	"42129"	"2007"	"2007"	4303	366318	1174.7
+	"Westmoreland County, PA"	"42129"	"2008"	"2008"	4378	366058	1196.0
+	"Westmoreland County, PA"	"42129"	"2009"	"2009"	4330	365259	1185.5
+	"Westmoreland County, PA"	"42129"	"2010"	"2010"	4249	365169	1163.6
+	"Westmoreland County, PA"	"42129"	"2011"	"2011"	4415	364493	1211.3
+	"Westmoreland County, PA"	"42129"	"2012"	"2012"	4299	363179	1183.7
+	"Westmoreland County, PA"	"42129"	"2013"	"2013"	4415	361151	1222.5
+	"Westmoreland County, PA"	"42129"	"2014"	"2014"	4505	359398	1253.5
+"Total"	"Westmoreland County, PA"	"42129"			39146	3277584	1194.4
+	"Wyoming County, PA"	"42131"	"2006"	"2006"	281	28194	996.7
+	"Wyoming County, PA"	"42131"	"2007"	"2007"	267	28287	943.9
+	"Wyoming County, PA"	"42131"	"2008"	"2008"	292	28294	1032.0
+	"Wyoming County, PA"	"42131"	"2009"	"2009"	291	28268	1029.4
+	"Wyoming County, PA"	"42131"	"2010"	"2010"	272	28276	961.9
+	"Wyoming County, PA"	"42131"	"2011"	"2011"	272	28290	961.5
+	"Wyoming County, PA"	"42131"	"2012"	"2012"	299	28345	1054.9
+	"Wyoming County, PA"	"42131"	"2013"	"2013"	302	28125	1073.8
+	"Wyoming County, PA"	"42131"	"2014"	"2014"	288	28128	1023.9
+"Total"	"Wyoming County, PA"	"42131"			2564	254207	1008.6
+	"York County, PA"	"42133"	"2006"	"2006"	3375	418043	807.3
+	"York County, PA"	"42133"	"2007"	"2007"	3477	424919	818.3
+	"York County, PA"	"42133"	"2008"	"2008"	3635	429399	846.5
+	"York County, PA"	"42133"	"2009"	"2009"	3556	433022	821.2
+	"York County, PA"	"42133"	"2010"	"2010"	3621	434972	832.5
+	"York County, PA"	"42133"	"2011"	"2011"	3770	436845	863.0
+	"York County, PA"	"42133"	"2012"	"2012"	3680	437641	840.9
+	"York County, PA"	"42133"	"2013"	"2013"	3798	439117	864.9
+	"York County, PA"	"42133"	"2014"	"2014"	3975	440590	902.2
+"Total"	"York County, PA"	"42133"			32887	3894548	844.4
+"Total"					1140256	114144318	999.0
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"States: Pennsylvania (42)"
+"Year: 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014"
+"Group By: County; Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Dec 11, 2020 2:42:55 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the Compressed Mortality File 1999-2016 Series 20 No."
+"2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Dec 11, 2020 2:42:55 AM"
+"---"
+Caveats:
+"1. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the"
+"1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010"
+"are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"3. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."
